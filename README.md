@@ -114,6 +114,7 @@ This repository contains implementations of various algorithms ordered by increa
 83. [modular_exponentiation](./modular_exponentiation)
 84. [miller_rabin_primality_test](./miller_rabin_primality_test)
 85. [pollards_rho_algorithm](./pollards_rho_algorithm)
+    [galois_group_cubic_decision](./galois_group_cubic_decision)
 
 ### Cryptographic Algorithms
 86. [rsa_algorithm](./rsa_algorithm)
